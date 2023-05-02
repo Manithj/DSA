@@ -1,5 +1,11 @@
 # DSA
 
-Data Structures & Algorithms Coded by Manith Jayaba
+## Data Structures & Algorithms Coded by Manith Jayaba
+<img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="250" height="250" align="right"/>
 
-<img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="250" height="250"/ style="text-align: right;">
+### Data Structures
+- [Click Here](./DataStructures)
+
+### Algorithms
+- [Click Here](./Algorithms)
+
