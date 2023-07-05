@@ -54,4 +54,3 @@ class Test {
 						+ evaluatePostfix(exp));
 	}
 }
-// Contributed by Sumit Ghosh
